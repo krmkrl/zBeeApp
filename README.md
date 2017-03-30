@@ -5,9 +5,10 @@ Android application using AGA for the zBee car.
 Install Android Studio: https://developer.android.com/studio/index.html
 Download AGA SDK: https://developer.lindholmen.se/redmine/projects/aga/wiki/Develop_an_Android_application
 Download AGA simulator: https://developer.lindholmen.se/redmine/projects/aga/wiki/Simulator
+Install git (of course).
 
 ## Source code
-Clone the zBeeApp repo.
+Clone the zBeeApp repo: git clone https://github.com/krmkrl/zBeeApp.git
 
 ## Android studio setup
 Import existing Android Studio project (zBeeApp).
